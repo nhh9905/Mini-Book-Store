@@ -1,3 +1,6 @@
+# INT1434 - Web Programming
+Nguyen Huy Hoang - B23DCAT112
+
 # Mini Book Store
 
 A simple bookstore frontend built with React.
