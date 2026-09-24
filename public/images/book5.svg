@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="900" viewBox="0 0 700 900">
+<rect width="700" height="900" rx="28" fill="#6a2f32"/>
+<rect x="38" y="38" width="624" height="824" rx="18" fill="none" stroke="#efd9d7" stroke-opacity=".65" stroke-width="2"/>
+<circle cx="530" cy="200" r="105" fill="#efd9d7" opacity=".10"/>
+<circle cx="585" cy="255" r="58" fill="#efd9d7" opacity=".08"/>
+<text x="70" y="120" fill="#efd9d7" font-family="Arial,sans-serif" font-size="24" letter-spacing="6">MINIBOOK EDITION</text>
+<text x="70" y="500" fill="#efd9d7" font-family="Georgia,serif" font-size="58" font-weight="700">WEB SECURITY</text>
+<text x="70" y="570" fill="#efd9d7" font-family="Georgia,serif" font-size="42">FOR DEVELOPERS</text>
+<line x1="70" y1="640" x2="260" y2="640" stroke="#efd9d7" stroke-width="4"/>
+<text x="70" y="760" fill="#efd9d7" opacity=".78" font-family="Arial,sans-serif" font-size="24">MINI BOOK STORE</text>
+</svg>
